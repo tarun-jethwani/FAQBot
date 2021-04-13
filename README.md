@@ -1,4 +1,4 @@
-# FAQBot
+# DeepLearning of QnA
 Contains code in the form of Jupyter/ Ipython Notebook  of sequence to sequence Encoder Decoder Architecture to successfully Answer any Frequently Asked Question by implementing Deep Neural Networks using Pytorch Deep Learning Framework 
 
 This project is created as a variant of another project - Translation with Sequence to Sequence Network using Attension Mechanism using Pytorch found on  https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html, you can visit the link and download the related Ipython notebook and also go thorugh the Tutorial Page and get a thorough Understanding of the underlying implementation. 
