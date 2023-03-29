@@ -7,3 +7,4 @@ However this Project uses a different dataset - Amazon EC2 Instance Common FAQs 
 
 Also this Project uses Pre-trained Word Embeddings - GloVe Vecotrs, you can download the GloVe Vectors from the following link 
 http://nlp.stanford.edu/data/glove.6B.zip, unzip the folder and keep it in the project directory we have initially used 50 dimensional word vectors 
+
